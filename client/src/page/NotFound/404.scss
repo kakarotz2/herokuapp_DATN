@@ -1,0 +1,31 @@
+.not_fount-wrap {
+    width: 100%;
+    top: 20%;
+    position: absolute;
+    text-align: center;
+    .not_found {
+        width: 800px;
+        margin: auto;
+        padding: auto;
+        h2 {
+            margin: 0;
+            font-size: 150px;
+            font-weight: bold;
+        }
+        .info {
+            p {
+                font-size: 32px;
+                font-weight: bold;
+            }
+            font-size: 24px;
+            .icons {
+                color: rgb(18, 165, 38);
+                margin-right: 4px;
+            }
+            a {
+                color: rgb(18, 9, 100);
+                font-weight: bold;
+            }
+        }
+    }
+}
